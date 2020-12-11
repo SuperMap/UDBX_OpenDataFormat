@@ -1,7 +1,7 @@
 # UDBX_OpenDataFormat
 UDBX开放数据格式白皮书。
 
-UDBX（Universal Database Extension）是一种文件型的开放式数据格式，由超图软件提出，支持全空间数据的高效存储与管理，为空间数据的共享和交换提供开放、便捷的解决方案。
+UDBX（Universal Spatial Database Extension）是一种文件型的空间数据格式，由超图软件提出，支持全空间数据的高效存储与管理，为空间数据的共享和交换提供开放、便捷的解决方案。
 UDBX的特点主要包括：
 
 （1）全空间数据支持：支持二三维一体化及矢量/栅格一体化的数据存储和管理；
